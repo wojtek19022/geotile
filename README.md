@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13737752.svg)](https://doi.org/10.5281/zenodo.13737752)
 [![Downloads](https://pepy.tech/badge/geotile)](https://pepy.tech/project/geotile)
 [![PyPI version](https://badge.fury.io/py/geotile.svg)](https://pypi.org/project/geotile/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/iamtekson/geotile/blob/master/LICENSE)
